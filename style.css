@@ -1,17 +1,17 @@
 body {
-     background-color: burlywood;
+    background-color: #E4E4F2;
 }
 
 #titulo {
     text-align: center;
     font-size: 50px;
-    color: red;
+    color: #30348C;
 }
 
 .texto {
     text-align: justify;
     font-size: 35px;
-    color: blue;
+    color: #9597BF;
 
     
 }
