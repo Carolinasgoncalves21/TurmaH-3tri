@@ -38,7 +38,7 @@ body {
 
 .fotosescola {
     display: inline-block;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .conteudo{
