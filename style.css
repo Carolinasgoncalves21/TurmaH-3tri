@@ -53,4 +53,5 @@ body {
 
 .fotos {
     display: inline-block;
+    justify-content: space-between;
 }
