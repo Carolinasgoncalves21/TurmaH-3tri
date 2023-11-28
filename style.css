@@ -36,6 +36,10 @@ body {
     border-radius: 24px;  
 }
 
+.fotosescola {
+    display: inline-block;
+}
+
 .conteudo{
     background-color: #D9CEC1;
 }
@@ -51,6 +55,3 @@ body {
     list-style-position: inside;
 }
 
-.fotos {
-    display: inline-block;
-}
