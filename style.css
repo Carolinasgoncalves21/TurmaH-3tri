@@ -51,6 +51,6 @@ body {
     list-style-position: inside;
 }
 
-.paragrafo {
-    font-family: sans-serif;
+.fotos {
+    display: inline-block;
 }
